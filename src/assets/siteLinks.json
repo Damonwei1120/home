@@ -1,15 +1,5 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "http://dwei.fucku.top/zblog/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "http://dwei.fucku.top/finder/"
-  },
-  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://dweimusic.pages.dev/"
@@ -30,8 +20,33 @@
     "link": "https://dweitv.pages.dev/"
   },
   {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "http://dwei.fucku.top/zblog/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "http://dwei.fucku.top/finder/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "冠军之路",
     "link": "https://activity-static.hupu.com/colorbox-activities/activity-project-ai-1785379957044/__ai_app.html"
+  }, 
+  {
+    "icon": "LaptopCode",
+    "name": "足球生涯模拟",
+    "link": "https://football-life.pages.dev/"
+  }, 
+  {
+    "icon": "LaptopCode",
+    "name": "足球生涯经理",
+    "link": "https://real-football-career.ianliu2208.workers.dev/"
+  }, 
+  {
+    "icon": "LaptopCode",
+    "name": "足球经理",
+    "link": "https://career-sim.pages.dev/"
   }
 ]
