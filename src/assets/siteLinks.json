@@ -21,8 +21,8 @@
   },
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "http://dwei.fucku.top/zblog/"
+    "name": "DweiTV",
+    "link": "./dweitv.html"
   },
   {
     "icon": "Cloud",
