@@ -25,6 +25,11 @@
     "link": "https://dweitvn.pages.dev/"
   },
   {
+    "icon": "LaptopCode",
+    "name": "个人工作台",
+    "link": "https://dwork.pages.dev/"
+  }, 
+  {
     "icon": "Cloud",
     "name": "网盘",
     "link": "http://dwei.fucku.top/finder/"
@@ -33,30 +38,5 @@
     "icon": "Compass",
     "name": "球员计算器",
     "link": "https://dweiac.pages.dev/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "冠军之路",
-    "link": "https://activity-static.hupu.com/colorbox-activities/activity-project-ai-1785379957044/__ai_app.html"
-  }, 
-  {
-    "icon": "LaptopCode",
-    "name": "足球生涯模拟",
-    "link": "https://football-life.pages.dev/"
-  }, 
-  {
-    "icon": "LaptopCode",
-    "name": "足球生涯经理",
-    "link": "https://real-football-career.ianliu2208.workers.dev/"
-  }, 
-  {
-    "icon": "LaptopCode",
-    "name": "篮球生涯",
-    "link": "https://activity-static.hupu.com/colorbox-activities/activity-project-ai-1785502331237/__ai_app.html"
-  }, 
-  {
-    "icon": "LaptopCode",
-    "name": "足球经理",
-    "link": "https://career-sim.pages.dev/"
   }
 ]
